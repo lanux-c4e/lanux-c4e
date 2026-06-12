@@ -1,46 +1,60 @@
 <div align="center">
 
-<!-- Logo Buraya Gelecek -->
-<img src="novalogo.png" align="center" width="180px" />
+<img src="code4ever.png" width="140px" />
 
-# Nova AI & Cloud Services
-### "Gelecekteki İkinizle Tanışın."
+# Code4Ever
+### Açık Kaynak Kodlu, Eşler Arası (P2P) Geliştirici Ağı
 
-[![Website](https://img.shields.io/badge/Website-lanux.xyz-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lanux.xyz)
-[![Status](https://img.shields.io/badge/Status-Beta-orange?style=for-the-badge)](https://lanux.xyz)
+![Status](https://img.shields.io/badge/Development-orange?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-success?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/P2P-blue?style=for-the-badge)
+![Privacy](https://img.shields.io/badge/Privacy-red?style=for-the-badge)
+
+**Gloyis Collective** & **Lanux Yazılım**
+
+</div>
 
 ---
 
-**Yapay Zeka ve Yerli Bulut Teknolojilerinde Yeni Bir Boyut**
-<br>
-Nova AI & Cloud Services; otonom yapay zeka çözümleri ve yerli bulut altyapısını birleştiren, <br> **gizlilik odaklı** bir teknoloji ekosistemidir.
+# 📌 Proje Hakkında
 
-</div>
+Code4Ever; iletişim, iş birliği ve proje süreçlerini dağıtık bir sistemde bir araya getiren, açık kaynak kodlu, eşler arası (P2P) ve federasyon yapılı bir geliştirici platformudur.
 
-### 🔐 Güvenlik ve Gizlilik Vizyonumuz
-"Verileriniz Türkiye'de kalsın, kontrol sadece sizde olsun."
+---
 
-*   **Sıfır Bilgi İspatı (ZKP):** Şifrelerinizi ve özel verilerinizi biz dahil kimseyle paylaşmıyoruz.
-*   **Yerel Veri Gücü:** Tüm hizmetler Türkiye lokasyonlu sunucularda barındırılır.
-*   **E2E Şifreleme:** Uçtan uca güvenlik ile veriler internete çıkmadan korunur.
+# ⚙️ Temel Özellikler
 
-### 🛠️ Neler Geliştiriyoruz?
-*   **NovaAI Otonom Asistanlar:** Ses ve görüntü klonlama teknolojileri.
-*   **NovaCloud Hizmetleri:** Dinamik, ölçeklenebilir ve güvenli bulut sunucular.
-*   **Self-Hosted AI:** Kontrolün tamamen sizde olduğu yerel kurulumlar.
+- Geliştirici akışı ve tartışma panoları  
+- Proje ve depo (repository) yönetimi  
+- Topluluk odaklı iş birliği  
+- Merkeziyetsiz ağ mimarisi  
 
-### 🚀 Bize Ulaşın
-<div align="left">
-  <a href="https://lanux.xyz">
-    <img src="https://img.shields.io/badge/Hemen_Başla-000?style=for-the-badge&logo=rocket&logoColor=white" />
-  </a>
-  <a href="mailto:novaAI@lanux.xyz">
-    <img src="https://img.shields.io/badge/Bize_Yazın-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+---
+
+# 🔐 Altyapı ve Güvenlik
+
+- Uçtan uca şifreleme  
+- Eşler arası (P2P) veri aktarımı  
+- Merkezi veri depolaması barındırmayan yapı  
+- Federe düğüm (node) sistemi  
+
+---
+
+# 🎯 Hedefimiz
+
+Geliştiricilerin merkezi platformlara bağımlı kalmadan, tamamen özgür ve güvenli bir ortamda birlikte çalışabilmesini sağlamak.
+
+---
+
+# 🤝 Geliştirici Ekip
+
+- Gloyis Collective  
+- Lanux Yazılım  
 
 ---
 
 <div align="center">
-  <sub>Lanux Yazılım Hizmetleri iştirakidir. © 2026</sub>
+
+<sub>Açık Kaynak • P2P • Gizlilik Odaklı</sub>
+
 </div>
